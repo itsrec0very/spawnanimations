@@ -1,4 +1,2 @@
-- **Added support for Minecraft 26.1** 🐤
-  - Migrated `#bamboo_plantable_on` references to `#supports_vegetation`
-  - Added router to handle [unobfuscated code](https://www.minecraft.net/en-us/article/removing-obfuscation-in-java-edition)
+- **Added support for Minecraft 26.2.x** ♨️
   - Bumped pack format and protocol version
